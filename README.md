@@ -52,9 +52,10 @@
   height="140px"
 />
 
-🎂 26 years ⏳ Undergraduate Computer Science at
-[UFCG](https://portal.ufcg.edu.br/) Intern at [Beyond
-Company](https://github.com/byndcloud) 🍿 I'm a lover of series and star wars
+🎂 26 years 
+⏳ Undergraduate Computer Science at[UFCG](https://portal.ufcg.edu.br/) 
+Intern at [Beyond Company](https://github.com/byndcloud)
+🍿 I'm a lover of series and star wars
 -------**Languages already used**--------------
 
 <br />
