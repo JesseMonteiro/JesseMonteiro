@@ -53,14 +53,14 @@
 />
 
 🎂 26 years<br> 
-⏳ Undergraduate Computer Science at[UFCG](https://portal.ufcg.edu.br/) <br>
+⏳ Undergraduate Computer Science at [UFCG](https://portal.ufcg.edu.br/) <br>
 Intern at [Beyond Company](https://github.com/byndcloud)<br>
 🍿 I'm a lover of series and star wars <br>
 
--------**Languages already used**--------------
 
 <br />
 <div align="center">
+  <h1> -------**Languages already used**-------------- </h1>  <br>
   <img
     height="35"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
