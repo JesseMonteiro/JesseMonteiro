@@ -54,7 +54,7 @@
 
 🎂 26 years<br> 
 ⏳ Undergraduate Computer Science at [UFCG](https://portal.ufcg.edu.br/) <br>
-Intern at [Beyond Company](https://github.com/byndcloud)<br>
+🧑🏻‍💻Intern at [Beyond Company](https://github.com/byndcloud)<br>
 🍿 I'm a lover of series and star wars <br>
 
 
