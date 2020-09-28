@@ -93,12 +93,10 @@ Intern at [Beyond Company](https://github.com/byndcloud)<br>
   <br>
 
   <h3>-------------**My profile statistics**------------- </h3>
-</div>
-
-
-<br />
-
-<img
+  
+  <br>
+  <br>
+  <img
   align="left"
   src="https://github-readme-stats.vercel.app/api?username=jessemonteiro&show_icons=true&theme=dark"
   width="400px"
@@ -110,3 +108,9 @@ Intern at [Beyond Company](https://github.com/byndcloud)<br>
   width="400px"
   height="200px"
 />
+</div>
+
+
+<br />
+
+
