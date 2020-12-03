@@ -35,7 +35,7 @@
         src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/facebook.svg"
       /> </a
     >&nbsp;&nbsp;&nbsp;
-    <a target="_blank" href="https://twitter.com/jessemonteirojp">
+    <a target="_blank" href="https://twitter.com/jessemonteiro">
       <img
         alt="Twitter"
         width="22px"
