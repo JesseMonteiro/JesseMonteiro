@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hellow. I'm Jesse.
+    Hello. I'm Jesse.
     <!-- <img
       alt="Olá!"
       src="https://media.giphy.com/media/f5qNV3rAAooViWSWQ7/giphy.gif"
