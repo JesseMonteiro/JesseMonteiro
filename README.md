@@ -104,7 +104,7 @@
   height="200px"
 />
 <img
-  align="left"
+  align="right"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessemonteiro&layout=compact&theme=dark"
   width="400px"
   height="200px"
