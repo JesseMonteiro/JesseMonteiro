@@ -52,7 +52,7 @@
   height="140px"
 />
 
-🎂 26 years<br> 
+🎂 27 years<br> 
 ⏳  Undergraduate Computer Science at [UFCG](https://portal.ufcg.edu.br/) <br>
 👨‍💻 Backend Developer Jr. at [VaiVoa](https://www.vaivoa.com)<br>
 🍿 I'm a lover of series and star wars <br>
