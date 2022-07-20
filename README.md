@@ -52,10 +52,10 @@
   height="140px"
 />
 
-🎂 27 years<br> 
+<!-- 🎂 27 years<br> --> 
 ⏳  Undergraduate Computer Science at [UFCG](https://portal.ufcg.edu.br/) <br>
-👨‍💻 Backend Developer Jr. at [VaiVoa](https://www.vaivoa.com)<br>
-🍿 I'm a lover of series and star wars <br>
+👨‍💻 iOS Developer at [Banco Modal](https://www.modal.com.br)<br>
+🍿 I'm a lover of series, star wars ans programming <br>
 
 
 <br />
@@ -66,12 +66,8 @@
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"
   />&nbsp;&nbsp;&nbsp;
   <img
-    height="35"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-  />&nbsp;&nbsp;&nbsp;
-  <img
-    height="35"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
+    height="50"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"
   />&nbsp;&nbsp;&nbsp;
   <img
     height="35"
@@ -79,7 +75,11 @@
   />&nbsp;&nbsp;&nbsp;
   <img
     height="35"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
+  />&nbsp;&nbsp;&nbsp;
+  <img
+    height="35"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
   />&nbsp;&nbsp;&nbsp;
   <img
     height="35"
