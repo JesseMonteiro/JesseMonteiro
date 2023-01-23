@@ -55,7 +55,7 @@
 <!-- 🎂 27 years<br> --> 
 🗺 Campina Grande, Brazil. <br>
 ⏳ Undergraduate Computer Science at [UFCG](https://portal.ufcg.edu.br/) <br>
-👨‍💻 iOS Developer at [Banco Modal](https://www.modal.com.br)<br>
+👨‍💻 iOS Developer / Backend C#
 🍿 I'm a lover of star wars and programming <br>
 
 
