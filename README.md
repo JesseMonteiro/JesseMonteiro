@@ -55,7 +55,7 @@
 <!-- 🎂 27 years<br> --> 
 🗺 Campina Grande, Brazil. <br>
 ⏳ Undergraduate Computer Systems Analysis and Development<br>
-👨‍💻 iOS Developer / Backend C# <br>
+👨‍💻 iOS Developer at Tiki <br>
 🍿 I'm a lover of star wars and programming <br>
 
 
