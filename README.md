@@ -54,7 +54,7 @@
 
 <!-- 🎂 27 years<br> --> 
 🗺 João Pessoa, Brazil. <br>
-⏳ Undergraduate Computer Systems Analysis and Development<br>
+⏳ Graduate Computer Systems Analysis and Development<br>
 👨‍💻 iOS Developer at Toro <br>
 🍿 I'm a lover of star wars and programming <br>
 
